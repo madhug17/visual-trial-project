@@ -1,0 +1,5 @@
+{
+  "name": "Virtual Try-On Studio",
+  "description": "An application that uses generative AI to place clothing items on an image of a person, creating a virtual try-on experience.",
+  "requestFramePermissions": []
+}
